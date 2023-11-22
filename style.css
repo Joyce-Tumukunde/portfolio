@@ -1,0 +1,58 @@
+div{
+    color: black;
+}
+    
+body{
+    background-color: white;
+}
+.ye{
+    margin-bottom:0px;
+}
+.eru{
+    padding: 5px;
+   margin-bottom:0px;
+    padding-bottom:20px; 
+    
+}
+.hoo{
+    margin-left:350px;
+   
+}
+a{
+    text-decoration: none;
+    overflow: hidden;
+    color: black;
+    float: left;
+    padding-left:10px;
+    padding-right: 0px;
+    margin-left: 90px;
+    border-right: 3px solid white; 
+}
+
+ul li{
+    
+    list-style-type: none;
+}
+h1,h3{
+    padding-left: 200px;
+}
+.home{
+    background-color: beige;
+    padding: 100px;
+}
+.bu{
+    flex-direction: row;
+    padding-left: 200px;
+}
+.su{
+    background-color: rgb(97, 97, 238);
+    color: antiquewhite;
+    border: none;
+     box-shadow: 2px 2px 2px black;
+}
+.di{
+    background-color: white;
+    color: black;
+    border: none;
+    box-shadow: 2px 2px 2px black;
+}
